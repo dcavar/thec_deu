@@ -1,0 +1,39 @@
+# bcr.txt
+# (C) 2023 by Damir Cavar <dcavar@iu.edu>, 
+# language: deu
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+# 
+# BCR = Backward Conjunction Reduction
+
+
+Monopole sollen geknackt ___ und Märkte getrennt werden.
+----
+Monopole sollen geknackt werden und Märkte getrennt werden.
+# gloss eng: Monopolies should shattered and markets split be
+# translation eng: ‘Monopolies should be shattered and markets split’
+# added by Damir Cavar
+# Karin Harbusch and Gerard Kempen (2007) Clausal Coordinate Ellipsis in German: The TIGER Treebank as a Source of Evidence. Joakim Nivre, Heiki-Jaan Kaalep, Kadri Muischnek and Mare Koit (Eds.) NODALIDA 2007 Conference Proceedings, pp. 81–88.
+# note: subgapping combined with BCR
+
+... während 78 Prozent sich für Bush und vier Prozent ___ für Clinton aussprachen
+----
+... während 78 Prozent sich für Bush und vier Prozent sich für Clinton aussprachen
+# translation eng: ‘... while 78 percent expressed themselves in favor of Bush and four percent for Clinton’
+# added by Damir Cavar
+# Karin Harbusch and Gerard Kempen (2007) Clausal Coordinate Ellipsis in German: The TIGER Treebank as a Source of Evidence. Joakim Nivre, Heiki-Jaan Kaalep, Kadri Muischnek and Mare Koit (Eds.) NODALIDA 2007 Conference Proceedings, pp. 81–88.
+
+... daß sich weiß davon am besten abhebt und ___ von den Autofahrern am ehesten gesehen wird
+----
+... daß sich weiß davon am besten abhebt und weiß von den Autofahrern am ehesten gesehen wird
+# translation eng: ‘... that [the color] white gives the better contrast and can be seen faster by the drivers’
+# added by Damir Cavar
+# Karin Harbusch and Gerard Kempen (2007) Clausal Coordinate Ellipsis in German: The TIGER Treebank as a Source of Evidence. Joakim Nivre, Heiki-Jaan Kaalep, Kadri Muischnek and Mare Koit (Eds.) NODALIDA 2007 Conference Proceedings, pp. 81–88.
+
+Sensoren berechnen ___ und zeigen die neue Position im Media-Land an.
+----
+Sensoren berechnen die neue Position im Media-Land und zeigen die neue Position im Media-Land an.
+# translation eng: ‘[Sensors ...] compute and indicate the new position in Media-Land’
+# added by Damir Cavar
+# Karin Harbusch and Gerard Kempen (2007) Clausal Coordinate Ellipsis in German: The TIGER Treebank as a Source of Evidence. Joakim Nivre, Heiki-Jaan Kaalep, Kadri Muischnek and Mare Koit (Eds.) NODALIDA 2007 Conference Proceedings, pp. 81–88.
+

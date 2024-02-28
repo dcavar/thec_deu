@@ -1,0 +1,185 @@
+# generic.txt
+# (C) 2023 by Damir Cavar <dcavar@iu.edu>
+# language: deu
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+
+Je früher der Abschied ___, desto kürzer ___ die Qual.
+----
+Je früher der Abschied ist, desto kürzer ist die Qual.
+# added by Damir Cavar
+# https://wortwuchs.net/stilmittel/ellipse/
+
+Erst ___ die Arbeit, dann ___ das Vergnügen.
+----
+Erst kommt die Arbeit, dann kommt das Vergnügen.
+# added by Damir Cavar
+# https://wortwuchs.net/stilmittel/ellipse/
+
+Was ___ nun?
+----
+Was machen wir nun?
+# added by Damir Cavar
+# https://wortwuchs.net/stilmittel/ellipse/
+
+Wenn ich dich in die Finger kriege ___
+----
+Wenn ich dich in die Finger kriege dann ...
+# type: Aposiopese
+# added by Damir Cavar
+# https://wortwuchs.net/stilmittel/ellipse/
+
+Keiner ist grausamer als ___ .  Du weißt schon wer.
+----
+Keiner ist grausamer als jemand.  Du weißt schon wer.
+# type: Apotropäische Aposiopese
+# added by Damir Cavar
+# https://wortwuchs.net/stilmittel/ellipse/
+
+Frisch also, ___ mutig ans Werk!
+----
+Frisch also, gehe ich mutig ans Werk! 
+# added by Damir Cavar
+# from Friedrich Schillers "Die Räuber" (1986, Reclam, Philipp) 
+
+Woher ___ so in Atem?
+----
+Woher bist du so in Atem?
+# added by Damir Cavar
+# from Friedrich Schillers "Die Verschwörung des Fiesco zu Genua" (1986, Reclam, Philipp)
+
+Ohne ___ Wenn und ___ Aber.
+----
+Ohne ein Wenn und ein Aber.
+# added by Damir Cavar
+# https://www.studysmarter.de/schule/deutsch/rhetorische-stilmittel/ellipse/
+
+___ Eine Pizza Salami, bitte.
+----
+Ich hätte gerne eine Pizza Salami, bitte.
+# added by Damir Cavar
+# https://www.studysmarter.de/schule/deutsch/rhetorische-stilmittel/ellipse/
+
+Nein, ___ nach Wien.
+----
+Nein, dieser Flug geht nach Wien.
+B: Dieser Flug geht nach München.
+# added by Damir Cavar
+# https://www.studysmarter.de/schule/deutsch/rhetorische-stilmittel/ellipse/
+
+___ Gefangene ___ auf freiem Fuß
+----
+Die Gefangene ist auf freiem Fuß.
+# added by Damir Cavar
+# https://www.studysmarter.de/schule/deutsch/rhetorische-stilmittel/ellipse/
+
+Rainer ___ Maria ___
+----
+Rainer hat Maria geholfen.
+B: Wer hat wem geholfen?
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+___ Rainer Maria
+----
+Rilke hieß mit Vornamen Rainer Maria.
+B: Wie heißt Rilke mit Vornamen?"
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Rainer ___ Maria ___
+----
+Rainer hat Maria geholfen.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+___ Links um!
+----
+Dreht euch links um!
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+___ Nicht zu fassen.
+----
+Das ist nicht zu fassen.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Karl liebt ___ und Peter haßt seine Eltern.
+----
+Karl liebt seine Eltern und Peter haßt seine Eltern.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Karl liebt ___ und Peter haßt seine Eltern.
+----
+Karl liebt sie und Peter haßt seine Eltern.
+B: Wir haben Karls und Peters Eltern getroffen.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+# note: anaphoric element elided
+
+Meistens geht Maria in die Kirche und ___ Otto in die Kneipe.
+----
+Meistens geht Maria in die Kirche und meistens geht Otto in die Kneipe.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Nach einem guten Essen oder ___ längerem Arbeiten.
+----
+Nach einem guten Essen oder nach längerem Arbeiten.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Ein Nachbar war da und ___ hat sich ziemlich beschwert.
+----
+Ein Nachbar war da und ein Nachbar hat sich ziemlich beschwert.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Ein Nachbar war da und ___ hat sich ziemlich beschwert.
+----
+Ein Nachbar war da und er hat sich ziemlich beschwert.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Ein Nachbar war da und ___ hat sich ziemlich beschwert.
+----
+Ein Nachbar war da und der hat sich ziemlich beschwert.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Karl aß seine Spaghetti mit den Fingern und Hans ___ mit dem Löffel.
+----
+Karl aß seine Spaghetti mit den Fingern und Hans aß seine Spaghetti mit dem Löffel.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Der Vater ___ der Mutter, der Onkel ___ der Tante.
+----
+Der Vater half der Mutter, der Onkel half der Tante.
+B: Wer half wem?
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Nein, ____ bei einem Unfall.
+----
+Nein, Karl verlor sein rechtes Bein bei einem Unfall.
+B: Verlor Karl sein rechtes Bein im Krieg?
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+In Amerika sind die meisten Häuser aus Holz und ___ nur manche ___ aus Stein.
+----
+In Amerika sind die meisten Häuser aus Holz und in Amerika sind nur manche Häuser aus Stein.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Der Vater ___ der Mutter ___ und der Onkel ___ der Tante ___ .
+----
+Der Vater hat der Mutter einen Kuß gegeben und der Onkel hat der Tante einen Kuß gegeben.
+B: Wer hat wem einen Kuß gegeben?
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+

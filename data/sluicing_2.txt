@@ -1,0 +1,26 @@
+# sluicing_2.txt
+# (C) 2023 by Damir Cavar
+# language: de
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+# Source: Jason Merchant (2016) Ellipsis: A survey of analytical approaches
+
+
+Er will jemandem schmeicheln, aber sie wissen nicht, wem ___ .
+----
+Er will jemandem schmeicheln, aber sie wissen nicht, wem er schmeicheln will.
+# en: He wants to flatter someone, but they don’t know who.
+
+Er will jemanden loben, aber sie wissen nicht, wen ___ .
+----
+Er will jemanden loben, aber sie wissen nicht, wen er loben will.
+# en: He wants to praise someone, but they don’t know who.
+
+They want to hire someone who speaks a Balkan language, but I don’t remember which ___.
+----
+They want to hire someone who speaks a Balkan language, but I don’t remember which Balkan language.
+
+Bob found a plumber who fixed the sink, but I’m not sure with what ___ .
+----
+Bob found a plumber who fixed the sink, but I’m not sure with what he fixed the sink.
+

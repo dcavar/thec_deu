@@ -1,0 +1,26 @@
+# rightnoderaising_1.txt
+# (C) 2023 by Damir Cavar <dcavar@iu.edu>
+# language: deu
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Sie ist hin___ und er ist zurückgefahren.
+----
+Sie ist hingefahren und er ist zurückgefahren.
+# Wikipedia: https://de.wikipedia.org/wiki/Koordinationsellipse
+
+Max soll den Hund ___ und Moritz ___ die Katze füttern.
+----
+Max soll den Hund füttern und Moritz soll die Katze füttern.
+# Wikipedia: https://de.wikipedia.org/wiki/Koordinationsellipse
+
+Leon sucht ___ und ___ findet seinen Schlüssel.
+----
+Leon sucht seinen Schlüssel und Leon findet seinen Schlüssel.
+# Wikipedia: https://de.wikipedia.org/wiki/Koordinationsellipse
+
+Weil ich die Katze ___ und du den Hund streicheln willst, ...
+----
+Weil ich die Katze streicheln will und du den Hund streicheln willst, ...
+# Wikipedia: https://de.wikipedia.org/wiki/Koordinationsellipse
+

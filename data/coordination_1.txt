@@ -1,0 +1,27 @@
+# coordination_1.txt
+# (C) 2023 by Damir Cavar <dcavar@iu.edu>
+# language: deu
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Fritz baut ein Haus und ___ pflanzt einen Baum.
+----
+Fritz baut ein Haus und Fritz pflanzt einen Baum.
+# Wikipedia: https://de.wikipedia.org/wiki/Koordinationsellipse
+# Translation eng: Fritz builds a house and plants a tree.
+
+Da einige die Sache nicht ernst nehmen und ___ sich mit anderem beschäftigen, höre ich auf.
+----
+Da einige die Sache nicht ernst nehmen und da einige sich mit anderem beschäftigen, höre ich auf.
+# Wikipedia: https://de.wikipedia.org/wiki/Koordinationsellipse
+
+In den Wald ging ein Jäger und __ fing einen Hasen.
+----
+In den Wald ging ein Jäger und er fing einen Hasen.
+# Wikipedia: https://de.wikipedia.org/wiki/Subjektbinnenellipse
+
+In den Wald ging ein Jäger und __ fing einen Hasen.
+----
+In den Wald ging ein Jäger und der Jäger fing einen Hasen.
+# Damir Cavar
+

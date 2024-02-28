@@ -1,0 +1,19 @@
+# ldg.txt
+# (C) 2023 by Damir Cavar <dcavar@iu.edu>
+# language: deu
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+# 
+# LDG = Long Distance Gapping
+
+
+Hans wohnt nicht in Paris und Peter ___ nicht in Rom.
+----
+Hans wohnt nicht in Paris und Peter wohnt nicht in Rom.
+# gloss eng: Hans lives not in Paris and Peter not in Rome
+# translation eng: ‘Hans doesn’t live in Paris and Peter doesn’t in Rome’
+# added by Damir Cavar
+# Karin Harbusch and Gerard Kempen (2007) Clausal Coordinate Ellipsis in German: The TIGER Treebank as a Source of Evidence. Joakim Nivre, Heiki-Jaan Kaalep, Kadri Muischnek and Mare Koit (Eds.) NODALIDA 2007 Conference Proceedings, pp. 81–88.
+# note: negation is not usually ellided
+
+

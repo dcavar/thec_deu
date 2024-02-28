@@ -1,0 +1,22 @@
+# VP_ellipsis.txt
+# (C) 2023 by Damir Cavar <dcavar@iu.edu>
+# language: deu
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+
+Karl soll seiner ___ und Maria soll ihrer Mutter helfen.
+----
+Karl soll seiner Mutter helfen und Maria soll ihrer Mutter helfen.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+# note: partial VP ellipsis
+
+Lisa will endlich in die Stadt ___ .
+----
+Lisa will endlich in die Stadt ziehen.
+B: Miriam ist vor 20 Jahren aufs Land gezogen.
+# added by Damir Cavar
+# cited as advertisement of the Deutsche Bahn
+# https://www.reddit.com/r/linguistics/comments/84w4mx/german_subordinate_clause_verb_ellipsis/?rdt=54326
+

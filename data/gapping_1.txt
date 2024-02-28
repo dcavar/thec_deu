@@ -1,0 +1,56 @@
+# gapping_1.txt
+# (C) 2023 by Damir Cavar <dcavar@iu.edu>
+# language: deu
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Hans liest sein Buch, Petra ___ ihre Zeitschrift.
+----
+Hans liest sein Buch, Petra liest ihre Zeitschrift.
+# added by Damir Cavar
+# Wikipedia: https://de.wikipedia.org/wiki/Gapping
+# Translation eng: 
+
+
+Max soll die Katze füttern und Marie ___ den Hund ausführen.
+----
+Max soll die Katze füttern und Marie soll den Hund ausführen.
+# added by Damir Cavar
+# Wikipedia: https://de.wikipedia.org/wiki/Koordinationsellipse
+
+Soll Max den Hund füttern und ___ Moritz die Katze ___?
+----
+Soll Max den Hund füttern und soll Moritz die Katze füttern?
+# added by Damir Cavar
+# Wikipedia: https://de.wikipedia.org/wiki/Koordinationsellipse
+
+Max soll den Hund mit Schokolade gefüttert haben und Moritz ___ mit Sahne ___.
+----
+Max soll den Hund mit Schokolade gefüttert haben und Moritz soll den Hund mit Sahne gefüttert haben.
+# added by Damir Cavar
+# Wikipedia: https://de.wikipedia.org/wiki/Koordinationsellipse
+
+Max soll den Hund mit Schokolade gefüttert haben und ___ Moritz mit Sahne ___.
+----
+Max soll den Hund mit Schokolade gefüttert haben und Max soll Moritz mit Sahne gefüttert haben.
+# added by Damir Cavar
+# Wikipedia: https://de.wikipedia.org/wiki/Koordinationsellipse
+
+Ich soll die Katze füttern und du ___ den Hund ___.
+----
+Ich soll die Katze füttern und du sollst den Hund füttern.
+# added by Damir Cavar
+# Wikipedia: https://de.wikipedia.org/wiki/Koordinationsellipse
+
+Wird sie kommen oder ___ er gehen?
+----
+Wird sie kommen oder wird er gehen?
+# added by Damir Cavar
+# Wolfgang Klein (1981) Some Rules of Regular Ellipsis in German. In: Klein, W., Levelt, W. (eds) Crossing the Boundaries in Linguistics. Synthese Language Library, vol 13. Springer, Dordrecht. https://doi.org/10.1007/978-94-009-8453-0_3
+
+Das Anzeigengeschäft trug dazu 36 Prozent bei, aus dem Vertrieb kamen 34 Prozent und ___ dem Druck 21 Prozent herein.
+----
+Das Anzeigengeschäft trug dazu 36 Prozent bei, aus dem Vertrieb kamen 34 Prozent und aus dem Druck 21 Prozent herein.
+# translation eng: ‘The Advertising Department contributed 36 percent, 34 percent came in from Sales and 21 percent from Printing’
+# added by Damir Cavar
+# Karin Harbusch and Gerard Kempen (2007) Clausal Coordinate Ellipsis in German: The TIGER Treebank as a Source of Evidence. Joakim Nivre, Heiki-Jaan Kaalep, Kadri Muischnek and Mare Koit (Eds.) NODALIDA 2007 Conference Proceedings, pp. 81–88.

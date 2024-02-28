@@ -1,0 +1,21 @@
+# NP_ellipsis.txt
+# (C) 2023 by Damir Cavar <dcavar@iu.edu>
+# language: deu
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Vor einem kargen ___ und nach einem reichen Mahl.
+----
+Vor einem kargen Mahl und nach einem reichen Mahl.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Karl liebt ___ und Maria haßt ihre Eltern.
+----
+Karl liebt ihre Eltern und Maria haßt ihre Eltern.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+# (19) Karl liebt ihre Eltern und Maria haßt ihre Eltern.
+# (20) Karl liebt seine Eltern und Maria haßt ihre Eltern.
+# kann nur bedeuten, daß auch Karl ihre Eltern haßt, nicht aber, daß er seine Eltern haßt. Er entspricht in der Bedeutung also (19) , nicht jedoch (20) :
+

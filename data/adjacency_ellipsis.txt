@@ -1,0 +1,124 @@
+# adjacency_ellipsis.txt
+# (C) 2023 by Damir Cavar <dcavar@iu.edu>
+# language: deu
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+
+Arnim ___ ein Bock ___
+----
+Arnim hat ein Bock Bier getrunken.
+B: Wer hat was getrunken?
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Karl glaubt zwei ___ .
+----
+Karl glaubt zwei Bären waren da.
+B: Wieviel Bären waren denn da?
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Nein, ___ für Maria.
+----
+Nein, dieses Buch ist für Maria.
+B: Dieses Buch ist für Peter.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Ja, ___ im Spiel.
+----
+Ja, Peter hat Glück im Spiel.
+B: Peter hat Glück im Spiel.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Als wir ankamen, kochte Peter.
+----
+Als wir ankamen, kochte Peter etwas ___ .
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Wer kann, ___ soll helfen.
+----
+Wer kann, jemandem soll helfen.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Karl gab ___ .
+----
+Karl gab Karten.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Otto saß ___ .
+----
+Otto saß im Gefängnis.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Otto hat ___ gesessen.
+----
+Otto hat im Gefängnis gesessen.
+# added by Damir Cavar
+
+Es regnete ___ .
+----
+Es regnete in Nijmegen.
+B: Gestern gegen fünf kam ich in Nijmegen an.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+# note: it did not rain elsewhere, it might have, but the implication is: it rained in Nijmegen
+
+Die Leute ___ sind aber ganz nett.
+----
+Die Leute, die in Feuerland leben, sind aber ganz nett.
+B: Feuerland ist ziemlich unwirtlich.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Von einem Kornfeld ___ .
+----
+Von einem Kornfeld habe ich heute geträumt.
+B: Wovon hast du heute nacht geträumt?
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Ein Mädchen stand an der Ecke und ___ winkte mir über die Straße zu.
+----
+Ein Mädchen stand an der Ecke und das Mädchen winkte mir über die Straße zu.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Claudia stand an der Ecke und ____ winkte mir über die Straße zu.
+----
+Claudia stand an der Ecke und Claudia winkte mir über die Straße zu.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Claudia stand an der Ecke und ____ winkte mir über die Straße zu.
+----
+Claudia stand an der Ecke und sie winkte mir über die Straße zu.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Claudia stand an der Ecke und ____ winkte mir über die Straße zu.
+----
+Claudia stand an der Ecke und die winkte mir über die Straße zu.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Der Schädiger haftet und ___ muß gegebenenfalls auch die Kosten für den gegnerischen Anwalt übernehmen.
+----
+Der Schädiger haftet und der Schädiger muß gegebenenfalls auch die Kosten für den gegnerischen Anwalt übernehmen.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+
+Maria liebt ___ und Claudia verabscheut ihre Eltern.
+----
+Maria liebt ihre Eltern und Claudia verabscheut ihre Eltern.
+# added by Damir Cavar
+# Wolfgang Klein (1985) ELLIPSE, FOKUSGLIEDERUNG UND THEMATISCHER STAND. In Reinhard Meyer-Hermann and Hannes Rieser (eds.) Ellipsen und fragmentarische Ausdrücke. Max Niemeyer Verlag, Tübingen.
+# note: the elided phrase "ihre Eltern" does not have to refer to the identical concept or entity
+# note: ihre Eltern could be identical in both conjuncts, but do not have to be
+

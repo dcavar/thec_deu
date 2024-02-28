@@ -1,0 +1,38 @@
+# fcr.txt
+# (C) 2023 by Damir Cavar <dcavar@iu.edu>
+# language: deu
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+# 
+# FCR = Forward Conjunction Reduction
+
+
+Wir verlieren sonst unser Profil und ___ landen bei den Wahlen 1998 im Keller.
+----
+Wir verlieren sonst unser Profil und wir landen bei den Wahlen 1998 im Keller.
+# gloss eng: we lose otherwise our profile and end-up at the elections 1998 in-the cellar
+# translation eng: ‘Otherwise, we lose our profile and end up in the cellar at the 1998 elections’
+# added by Damir Cavar
+# Karin Harbusch and Gerard Kempen (2007) Clausal Coordinate Ellipsis in German: The TIGER Treebank as a Source of Evidence. Joakim Nivre, Heiki-Jaan Kaalep, Kadri Muischnek and Mare Koit (Eds.) NODALIDA 2007 Conference Proceedings, pp. 81–88.
+
+Dabei schrumpfte der Auftragseingang aus dem Inland um drei und ___ aus dem Ausland um vier Prozent.
+----
+Dabei schrumpfte der Auftragseingang aus dem Inland um drei und der Auftragseingang aus dem Ausland um vier Prozent.
+# translation eng: ‘Moreover, the number of domestic orders shrank with three and the number of orders from abroad with four percent’
+# added by Damir Cavar
+# Karin Harbusch and Gerard Kempen (2007) Clausal Coordinate Ellipsis in German: The TIGER Treebank as a Source of Evidence. Joakim Nivre, Heiki-Jaan Kaalep, Kadri Muischnek and Mare Koit (Eds.) NODALIDA 2007 Conference Proceedings, pp. 81–88.
+
+Dabei schrumpfte der Auftragseingang aus dem Inland um drei und ___ aus dem Ausland um vier Prozent.
+----
+Dabei schrumpfte der Auftragseingang aus dem Inland um drei und dabei schrumpfte der Auftragseingang aus dem Ausland um vier Prozent.
+# translation eng: ‘Moreover, the number of domestic orders shrank with three and the number of orders from abroad with four percent’
+# added by Damir Cavar
+# Karin Harbusch and Gerard Kempen (2007) Clausal Coordinate Ellipsis in German: The TIGER Treebank as a Source of Evidence. Joakim Nivre, Heiki-Jaan Kaalep, Kadri Muischnek and Mare Koit (Eds.) NODALIDA 2007 Conference Proceedings, pp. 81–88.
+
+... das in der Vergangenheit so blutrünstigen Figuren Unterschlupf gegeben hatte bzw. ___ noch immer gewährt
+----
+... das in der Vergangenheit so blutrünstigen Figuren Unterschlupf gegeben hatte bzw. so blutrünstigen Figuren Unterschlupf noch immer gewährt.
+# translation eng: ‘... which in the past had given shelter to bloodthirsty characters [...], resp. is still granting it’
+# added by Damir Cavar
+# Karin Harbusch and Gerard Kempen (2007) Clausal Coordinate Ellipsis in German: The TIGER Treebank as a Source of Evidence. Joakim Nivre, Heiki-Jaan Kaalep, Kadri Muischnek and Mare Koit (Eds.) NODALIDA 2007 Conference Proceedings, pp. 81–88.
+
