@@ -6,6 +6,7 @@ More details about the [Hoosier Ellipsis Corpus] can be found on the [NLP-Lab] p
 
 This repo contains the German Ellipsis Sub-corpus of THEC.
 
+Consult the [data format specification](https://nlp-lab.org/ellipsis/data_format) for details about the structure of the files and the annotation standard used.
 
 
 
