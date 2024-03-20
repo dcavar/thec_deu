@@ -12,8 +12,8 @@ Narrative
 ## Maintainer
 - Emily Reed
 - Anirudh Iyer
-- Damir Cavar
+- [Damir Cavar]
 
 
 
-
+[Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
