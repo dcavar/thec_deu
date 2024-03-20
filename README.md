@@ -1,11 +1,11 @@
 # The Hoosier Ellipsis Corpus (THEC) - German Sub-corpus (thec_deu)
 
-(C) 2024 [NLP-Lab](http://nlp-lab.org/)
+(C) 2024 [NLP-Lab]
 
-German Ellipsis Sub-corpus
+More details about the [Hoosier Ellipsis Corpus] can be found on the [NLP-Lab] pages.
 
-Narrative
-- generic ellipsis corpus about...
+This repo contains the German Ellipsis Sub-corpus of THEC.
+
 
 
 
@@ -17,3 +17,5 @@ Narrative
 
 
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
+[Hoosier Ellipsis Corpus]: https://nlp-lab.org/ellipsis/ "Hoosier Ellipsis Corpus"
+[NLP-Lab]: https://nlp-lab.org/ "NLP-Lab"
