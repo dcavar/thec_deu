@@ -38,6 +38,11 @@ Please use the following snippet to cite our work.
 ```
 
 
+[Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
+[Hoosier Ellipsis Corpus]: https://nlp-lab.org/ellipsis/ "Hoosier Ellipsis Corpus"
+[the Hoosier Ellipsis Corpus]: https://nlp-lab.org/ellipsis/ "the Hoosier Ellipsis Corpus"
+[NLP-Lab]: https://nlp-lab.org/ "NLP-Lab"
+
 
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
 [Hoosier Ellipsis Corpus]: https://nlp-lab.org/ellipsis/ "Hoosier Ellipsis Corpus"
