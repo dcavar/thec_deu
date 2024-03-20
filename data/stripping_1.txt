@@ -1,0 +1,15 @@
+# stripping_1.txt
+# 2024 by Emily Reed <reedemi@iu.edu>
+# langauge: deu
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Jede Schülerin mag Katzen, und jede Lehrerin ___ auch ___.
+----
+Jede Schülerin mag Katzen, und jede Lehrerin mag auch Katzen.
+# Marie-Luise Schwarzer (2022) Determiner sharing in German by clausal ellipsis and split topicalization.
+
+weil die Anna die Aufgabe lösen kann, aber ___ nicht ___ der Jan.
+----
+weil die Anna die Aufgabe lösen kann, aber die Aufgabe nicht lösen kann der Jan.
+# Marina Kolokonte (2008) Bare Argument Ellipsis and Information Structure. Newcastle University
