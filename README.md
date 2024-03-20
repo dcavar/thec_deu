@@ -2,7 +2,7 @@
 
 (C) 2024 [NLP-Lab]
 
-More details about the [Hoosier Ellipsis Corpus] can be found on the [NLP-Lab] pages.
+More details about the [Hoosier Ellipsis Corpus] can be found on the [NLP-Lab] pages. The GitHub repo contains links to other languages and useful code and scripts for data processing.
 
 This repo contains the German Ellipsis Sub-corpus of THEC.
 
@@ -41,4 +41,5 @@ Please use the following snippet to cite our work.
 
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
 [Hoosier Ellipsis Corpus]: https://nlp-lab.org/ellipsis/ "Hoosier Ellipsis Corpus"
+[the Hoosier Ellipsis Corpus]: https://nlp-lab.org/ellipsis/ "the Hoosier Ellipsis Corpus"
 [NLP-Lab]: https://nlp-lab.org/ "NLP-Lab"
